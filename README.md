@@ -20,4 +20,23 @@ Appunti di Teoria quantistica dei campi
 
 * **Creazione_elettrone_positrone_CM**: Creazione della coppia e−/e+ nel centro di massa
 
+* **Bremsstrahlung**: Bremsstrahlung (radiazione di frenamento)
+
+*  **Klein-Gordon**: Equazione di Klein-Gordon
+
+*  **K-G_One_particle**: Interpretazione «one-particle» della teoria di Klein-Gordon
+
+*  **Spin-0_particles**: Scattering di particelle con spin 0
+
+*  **Scatt_pione-pione**: Scattering pione-pione
+
+*  **Scatt_Coulomb_pioni**: Scattering di Coulomb di pioni
+
+*  **Scattering_fotone-pione**: Scattering di Compton fotone-pione
+
+*  **Creazione_coppia_muone-antimuone**: Creazione coppia muone-antimuone
+
+
+
+
  
