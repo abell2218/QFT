@@ -8,10 +8,10 @@ Appunti di Teoria quantistica dei campi
 
 * **Scattering_elettrone-elettrone**: Scattering elettrone-elettrone
 
-* **Scattering_di_Coulomb**: Scattering di Coulomb
-
 * **Scattering_di_Compton**: Scattering fotone-elettrone (scattering di Compton)
 
+* **Scattering_di_Coulomb**: Scattering di Coulomb
+ 
 * **Scattering_elettrone-positrone**: Scattering elettrone-positrone
 
 * **Scattering_di_Coulomb_positroni**: Scattering di Coulomb con positroni
