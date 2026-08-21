@@ -1,2 +1,2 @@
 # QFT
-Appunti sulla Teoria quantistica dei campi
+Appunti di Meccanica quantistica e di Teoria quantistica dei campi
