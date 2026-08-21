@@ -4,21 +4,21 @@ Quantum Field Theory
 
 Appunti di Teoria quantistica dei campi
 
-* **Scattering_elettrone-protone**: scattering di un elettrone da parte di un potenziale di Coulomb
+* **Scattering_elettrone-protone**: scattering elettrone - protone
 
-* **Scattering_elettrone-elettrone**: Scattering elettrone-elettrone
+* **Scattering_elettrone-elettrone**: Scattering elettrone - elettrone
 
-* **Scattering_di_Compton**: Scattering fotone-elettrone (scattering di Compton)
+* **Scattering_di_Compton**: Scattering fotone - elettrone (scattering di Compton)
 
-* **Scattering_di_Coulomb**: Scattering di Coulomb
+* **Scattering_di_Coulomb**: Scattering di Coulomb da parte di un nucleo atomico
  
-* **Scattering_elettrone-positrone**: Scattering elettrone-positrone
+* **Scattering_elettrone-positrone**: Scattering elettrone - positrone
 
 * **Scattering_di_Coulomb_positroni**: Scattering di Coulomb con positroni
 
 * **Creazione_coppia_elettrone-positrone**: Creazione della coppia e−/e+ nel campo di un nucleo atomico
 
-* **Annichilazione_elettrone_positrone**: Annichilazione elettrone-positrone
+* **Annichilazione_elettrone_positrone**: Annichilazione elettrone - positrone
 
 * **Creazione_elettrone_positrone_CM**: Creazione della coppia e−/e+ nel centro di massa
 
@@ -30,15 +30,15 @@ Appunti di Teoria quantistica dei campi
 
 *  **Spin-0_particles**: Scattering di particelle con spin 0
 
-*  **Scatt_pione-pione**: Scattering pione-pione
+*  **Scatt_pione-pione**: Scattering pione - pione
 
 *  **Scatt_Coulomb_pioni**: Scattering di Coulomb di pioni
 
-*  **Scattering_fotone-pione**: Scattering di Compton fotone-pione
+*  **Scattering_fotone-pione**: Scattering di Compton fotone - pione
 
-*  **Creazione_coppia_pione-antipione**: Creazione coppia pione-antipione
+*  **Creazione_coppia_pione-antipione**: Creazione coppia pione - antipione
 
-*  **Creazione_coppia_muone-antimuone**: Creazione coppia muone-antimuone
+*  **Creazione_coppia_muone-antimuone**: Creazione coppia muone - antimuone
 
 *  **Feynman_Rules**: Le regole di Feynman
 
