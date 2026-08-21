@@ -6,7 +6,9 @@ Appunti di Teoria quantistica dei campi
 
 * **Scattering_elettrone-protone**: scattering di un elettrone da parte di un potenziale di Coulomb
 
-* **Scattering_elettrone-protone**: Scattering elettrone-elettrone
+* **Scattering_elettrone-elettrone**: Scattering elettrone-elettrone
+
+* **Scattering_di_Coulomb**: Scattering di Coulomb
 
 * **Scattering_di_Compton**: Scattering fotone-elettrone (scattering di Compton)
 
