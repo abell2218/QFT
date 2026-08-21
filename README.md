@@ -16,11 +16,11 @@ Appunti di Teoria quantistica dei campi
 
 * **Scattering_di_Coulomb_positroni**: Scattering di Coulomb con positroni
 
-* **Creazione_coppia_elettrone-positrone**: Creazione della coppia e−/e+ nel campo di un nucleo atomico
+* **Creazione_coppia_elettrone-positrone**: Creazione della coppia e− e+ nel campo di un nucleo atomico
 
 * **Annichilazione_elettrone_positrone**: Annichilazione elettrone - positrone
 
-* **Creazione_elettrone_positrone_CM**: Creazione della coppia e−/e+ nel centro di massa
+* **Creazione_elettrone_positrone_CM**: Creazione della coppia e− e+ nel centro di massa
 
 * **Bremsstrahlung**: Bremsstrahlung (radiazione di frenamento)
 
