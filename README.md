@@ -38,6 +38,20 @@ Appunti di Teoria quantistica dei campi
 
 *  **Creazione_coppia_muone-antimuone**: Creazione coppia muone-antimuone
 
+*  **Feynman_Rules**: Le regole di Feynman
+
+*  **GaugeEM**: Invarianza di gauge nella elettrodinamica classica e nella QED
+
+*  **Lagrangian_Fied_Theory**: Formulazione lagrangiana delle teorie di campo
+
+*  **Noether**: Il teorema di Noether
+
+*  **Gruppo_di_Lorentz**: Gruppo di Lorentz e covarianza dell’equazione di Dirac
+
+*  **Gamma_matrices**: Algebra delle matrici gamma di Dirac
+
+*  **Delta_squared**: Appendice A - Quadrato della funzione delta di Dirac
+
 
 
 
