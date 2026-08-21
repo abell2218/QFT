@@ -34,6 +34,8 @@ Appunti di Teoria quantistica dei campi
 
 *  **Scattering_fotone-pione**: Scattering di Compton fotone-pione
 
+*  **Creazione_coppia_pione-antipione**: Creazione coppia pione-antipione
+
 *  **Creazione_coppia_muone-antimuone**: Creazione coppia muone-antimuone
 
 
