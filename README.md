@@ -1,6 +1,6 @@
 # QFT
 
-Massimiliano Oronzo - ricercatore indipendente
+Massimiliano Oronzo - Ricercatore indipendente
 
 E-mail: abell2218g@gmail.com
 
