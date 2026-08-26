@@ -1,9 +1,11 @@
 # QFT
-Quantum Field Theory
-============
 
 Massimiliano Oronzo - ricercatore indipendente
+
 E-mail: abell2218g@gmail.com
+
+Quantum Field Theory
+============
 
 Appunti di Teoria quantistica dei campi
 
