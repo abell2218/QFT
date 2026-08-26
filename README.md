@@ -2,6 +2,9 @@
 Quantum Field Theory
 ============
 
+Massimiliano Oronzo - ricercatore indipendente
+E-mail: abell2218g@gmail.com
+
 Appunti di Teoria quantistica dei campi
 
 * **Scattering_elettrone-protone**: scattering elettrone - protone
